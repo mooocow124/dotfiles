@@ -1,4 +1,4 @@
-# Everywhere I've written personal to me, it will only work if your username is also yocow
+# Everywhere I've written personal to me, you should probably change that
 
 # Colours
 # Reset
