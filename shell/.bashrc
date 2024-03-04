@@ -139,6 +139,7 @@ alias icat="kitten icat"
 alias pm="pnpm"
 alias py="python3"
 alias edit="nvim"
+alias ls="/usr/bin/ls --color"
 
 # Stuff to actually do
 
